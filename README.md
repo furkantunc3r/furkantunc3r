@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkantunc3r&show_icons=true&theme=dark&locale=en&layout=compact" alt="furkantunc3r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkantunc3r&show_icons=true&theme=dark&locale=en" alt="furkantunc3r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkantunc3r&theme=dark" alt="furkantunc3r" /></p>
