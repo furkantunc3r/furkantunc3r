@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A developer from Turkey.</h3>
 
-- 🔭 I’m currently working on **PushSwap**
+- 🔭 I’m currently working on **C**
 
 - 🌱 I’m currently learning **C**
 
