@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h1 align="center">Hi 👋, I'm Furkan Tuncer</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkantunc3r" alt="furkantunc3r" /></a> </p>
 
 - 🔭 I’m currently working on **ft_transcendence**
 
