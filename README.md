@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ft_transcendence**
 
-- 🌱 I’m currently learning **NestJS** **&** **Unreal Engine**
+- 🌱 I’m currently learning **NestJS** **&** **Unreal Engine** **&** **COBOL**
 
 - 📫 How to reach me **tuncerfurkan1998@gmail.com**
 
