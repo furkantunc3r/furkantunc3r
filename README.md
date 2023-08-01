@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Tuncer</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **NestJS** **&** **Unreal Engine** **&** **COBOL**
-
 - 📫 How to reach me **tuncerfurkan1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
