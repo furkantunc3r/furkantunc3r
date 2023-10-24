@@ -1,9 +1,7 @@
 <h1 align="center">Hello! I am Furkan</h1>
 <h3 align="center">I see my-self as a passionate, self-disciplined and imaginative Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkantunc3r" alt="furkantunc3r" /></a> </p>
-
-- Visit my website! [https://furkantunc3r.github.io/](https://furkantunc3r.github.io/)
+- 🔭 Visit my website! [https://furkantunc3r.github.io/](https://furkantunc3r.github.io/)
 
 - 📫 How to reach me **tuncerfurkan1998@gmail.com**
 
