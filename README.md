@@ -1,4 +1,4 @@
-- 🔭 Visit my website! **[https://furkantunc3r.github.io/](https://furkantunc3r.github.io/)**
+- 🔭 Visit my website! **[furkantunc3r.github.io](https://furkantunc3r.github.io/)**
 
 - 📫 How to reach me **tuncerfurkan1998@gmail.com**
 
