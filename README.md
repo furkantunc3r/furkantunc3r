@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Furkan</h1>
 <h3 align="center">I see my-self as a passionate, self-disciplined and imaginative Software Developer</h3>
 
-- 🔭 Visit my website! **[https://furkantunc3r.github.io/](https://furkantunc3r.github.io/)**
+- 🔭 Visit my website! *[https://furkantunc3r.github.io/](https://furkantunc3r.github.io/)*
 
 - 📫 How to reach me **tuncerfurkan1998@gmail.com**
 
